@@ -57,12 +57,6 @@ a {
     text-decoration: none;
 }
 
-.page-sit{
-  font-weight: Bold;
-Size: 56px
-Letter Spacing: 2%
-line-height: 60
-}
 
 .btn{
   color: #FFFFFF;
@@ -78,17 +72,4 @@ line-height: 60
   background-color: #404BBF;
 }
 
-.link .act{
-  color: #2E2F42;
-}
 
-.link .act:hover{
-  color: #4D5AE5;
-}
-
-.link .act:focus{
-  color: #404BBF;
-}
-.text{
-  color: #2E2F42;
-}
