@@ -33,14 +33,17 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal
 }
 
 .contact-link:hover {
   color: #404bbf;
+  font-style: normal
 }
 
 .contact-link:focus {
   color: #404bbf;
+  font-style: normal
 }
 
 body{
