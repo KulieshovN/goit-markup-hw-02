@@ -86,11 +86,11 @@ a {
 }
 
 .btn :hover {
-  color: #404BBF;
+  background-color: #404BBF;
 }
 
 .btn :focus{
-  color: #404BBF;
+  background-color: #404BBF;
 }
 
 
