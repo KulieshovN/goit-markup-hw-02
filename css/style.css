@@ -84,9 +84,6 @@ a {
   color: #ffffff;
   cursor: pointer;
 }
-.btn:hover{
-  background-color: #404BBF;
-} 
 
 .btn:focus {
   background-color: #404BBF;
