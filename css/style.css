@@ -85,11 +85,11 @@ a {
   cursor: pointer;
 }
 
-.btn :hover {
+.btn:hover {
   background-color: #404BBF;
 }
 
-.btn :focus{
+.btn:focus{
   background-color: #404BBF;
 }
 
