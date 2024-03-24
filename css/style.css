@@ -75,6 +75,7 @@ a {
 }
 
 .btn{
+  font-family: inherit;
   color: #FFFFFF;
   background-color: #4D5AE5;
   font-weight: 500;
@@ -88,10 +89,6 @@ a {
   background-color: #404BBF;
 } 
 
-
-.btn:active{
-  background-color: #404BBF;
-}
 
 
 
