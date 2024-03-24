@@ -62,19 +62,36 @@ a {
     text-decoration: none;
 }
 
+.section-with-classes {
+  background-color: #2e2f42;
+}
+
+.section-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
 
 .btn{
   color: #FFFFFF;
   background-color: #4D5AE5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
 }
 .btn:hover{
-  color: #FFFFFF;
-  background-color: #404BBF; 
-}
+  background-color: #404BBF;
+} 
+
 
 .btn:active{
-  color: #FFFFFF;
   background-color: #404BBF;
 }
+
 
 
